@@ -38,8 +38,9 @@
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 | **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
 | **ML / AI** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Database / Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **Network / Systems** | ![Networking](https://img.shields.io/badge/Networking-1679A7?style=flat-square&logo=cisco&logoColor=white) ![System Administration](https://img.shields.io/badge/System_Administration-333333?style=flat-square&logo=linux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **DevOps / Deployment** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ---
@@ -51,17 +52,6 @@
 | [**Farm Database**](https://farm-database.vercel.app) | Database-driven farm management application with structured data operations | Python, Django REST Framework, PostgreSQL, SQL |
 | [**Flower Store**](https://flower-store-theta.vercel.app) | Deployed online store with API integration and database-backed functionality | Python, Django REST Framework, PostgreSQL |
 | [**STOM**](https://stom-beta.vercel.app) | Service-business web application for a dental clinic | Web Development, API Integration, Deployment |
-
-## Recent GitHub Repositories
-
-<!-- PROJECTS:START -->
-| Project | Description | Main language |
-|---|---|---|
-| [**mini**](https://github.com/Bol-F/mini) | No description provided | `Python` |
-| [**test-project**](https://github.com/Bol-F/test-project) | No description provided | `Python` |
-| [**Main**](https://github.com/Bol-F/Main) | No description provided | `Python` |
-| [**flower-shop**](https://github.com/Bol-F/flower-shop) | No description provided | `Python` |
-<!-- PROJECTS:END -->
 
 ---
 
@@ -82,6 +72,3 @@
   I am currently improving my skills in backend architecture, database design, and application security.
 </details>
 
-<!-- LAST_UPDATE:START -->
-_Last project list update: 2026-07-21 10:11 UTC._
-<!-- LAST_UPDATE:END -->
