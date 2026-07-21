@@ -21,7 +21,7 @@
 | Role | Company | Period | Location |
 |:---|:---|:---:|:---|
 | **Freelance Backend Developer** | Self-employed | Sep 2025 - Present | Tashkent, Uzbekistan |
-| **Mathematics Teacher** | MegaSchool | Nov 2025 - Present | Tashkent, Uzbekistan |
+
 
 ## Education
 
