@@ -56,17 +56,6 @@
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bol-F&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bol-F&layout=compact&hide_border=true&theme=transparent" alt="Most used languages">
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=Bol-F&hide_border=true&theme=transparent" alt="GitHub contribution streak">
-</p>
-
 ## Contribution Snake
 
 <picture>
