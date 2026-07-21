@@ -1,8 +1,9 @@
 <h1 align="center">Firdavs Baliyev</h1>
 
 <p align="center">
-  <b>Junior Python Backend Developer</b><br>
-  Python | Django | PostgreSQL | REST APIs
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Junior+Python+Backend+Developer;Cybersecurity+Student;ML+%2F+AI+Enthusiast;Network+%26+System+Administration" alt="Typing SVG">
+  </a>
 </p>
 
 <p align="center">&#128205;&nbsp; Tashkent, Uzbekistan</p>
@@ -65,6 +66,14 @@
 <p>
   <img src="https://streak-stats.demolab.com/?user=Bol-F&hide_border=true&theme=transparent" alt="GitHub contribution streak">
 </p>
+
+## Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bol-F/Bol-F/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bol-F/Bol-F/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Bol-F/Bol-F/output/github-contribution-grid-snake.svg">
+</picture>
 
 <details>
   <summary><b>More about me</b></summary>
