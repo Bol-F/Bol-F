@@ -57,7 +57,10 @@
 <!-- PROJECTS:START -->
 | Project | Description | Main language |
 |---|---|---|
-| [**mini**](https://github.com/Bol-F/mini) | Backend application built with Django | `Python` |
+| [**mini**](https://github.com/Bol-F/mini) | No description provided | `Python` |
+| [**test-project**](https://github.com/Bol-F/test-project) | No description provided | `Python` |
+| [**Main**](https://github.com/Bol-F/Main) | No description provided | `Python` |
+| [**flower-shop**](https://github.com/Bol-F/flower-shop) | No description provided | `Python` |
 <!-- PROJECTS:END -->
 
 ---
@@ -80,5 +83,5 @@
 </details>
 
 <!-- LAST_UPDATE:START -->
-_Last project list update: generated automatically by GitHub Actions._
+_Last project list update: 2026-07-21 10:11 UTC._
 <!-- LAST_UPDATE:END -->
