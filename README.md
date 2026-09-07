@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bol-F/Bol-F/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bol-F/Bol-F/main/assets/hero-light.svg">
-  <img alt="Firdavs Baliyev — Python Backend Developer and Applied AI/ML" src="https://raw.githubusercontent.com/Bol-F/Bol-F/main/assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bol-F/Bol-F/main/assets/hero-light.svg?v=5c2ec1f">
+  <img alt="Firdavs Baliyev — Python Backend Developer and Applied AI/ML" src="https://raw.githubusercontent.com/Bol-F/Bol-F/main/assets/hero-light.svg?v=5c2ec1f" width="100%">
 </picture>
 
 <p align="center">
