@@ -112,32 +112,81 @@ What I enjoy most is taking a project beyond the prototype stage — designing t
 
 ---
 
-## Tech stack
+## Tech Stack
 
 <table>
   <tr>
     <td><b>Backend</b></td>
-    <td>Python · Django · Django REST Framework · REST APIs · Celery · JWT · OAuth2 concepts</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+      <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework">
+      <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square" alt="REST API">
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery">
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT">
+      <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=flat-square" alt="OAuth2">
+    </td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td>PostgreSQL · SQL · Redis · Supabase · Polars · PyArrow · pandas</td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/SQL-334155?style=flat-square" alt="SQL">
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+      <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars">
+      <img src="https://img.shields.io/badge/PyArrow-5B6B7A?style=flat-square&logo=apachearrow&logoColor=white" alt="PyArrow">
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+    </td>
   </tr>
   <tr>
     <td><b>AI / ML</b></td>
-    <td>scikit-learn · PyTorch · Hugging Face Transformers · MLflow · NLP · anomaly detection · model evaluation</td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
+      <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square" alt="NLP">
+      <img src="https://img.shields.io/badge/Anomaly_Detection-9333EA?style=flat-square" alt="Anomaly Detection">
+      <img src="https://img.shields.io/badge/Model_Evaluation-2563EB?style=flat-square" alt="Model Evaluation">
+    </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td>React · Next.js · TypeScript · JavaScript · Tailwind CSS</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+    </td>
   </tr>
   <tr>
     <td><b>Quality</b></td>
-    <td>pytest · unittest · Ruff · mypy · OpenAPI / Swagger · Postman · Playwright · Vitest</td>
+    <td>
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+      <img src="https://img.shields.io/badge/unittest-4B5563?style=flat-square" alt="unittest">
+      <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" alt="Ruff">
+      <img src="https://img.shields.io/badge/mypy-1F6FEB?style=flat-square" alt="mypy">
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI">
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+    </td>
   </tr>
   <tr>
     <td><b>Delivery</b></td>
-    <td>Docker · Docker Compose · GitHub Actions · CI/CD · Linux · Render · Vercel · PythonAnywhere</td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/Docker_Compose-1D63ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=flat-square&logo=github&logoColor=white" alt="CI/CD">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render">
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=flat-square&logo=python&logoColor=white" alt="PythonAnywhere">
+    </td>
   </tr>
 </table>
 
