@@ -1,47 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
-  <title id="title">Firdavs Baliyev — Python Backend Developer</title>
-  <desc id="desc">Professional engineering profile banner for Firdavs Baliyev.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="286" viewBox="0 0 960 286" role="img" aria-labelledby="title desc">
+  <title id="title">Firdavs Baliyev — Backend Engineering and Applied AI</title>
+  <desc id="desc">Premium engineering portfolio banner for Firdavs Baliyev.</desc>
 
   <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58a6ff"/>
-      <stop offset="0.55" stop-color="#a371f7"/>
-      <stop offset="1" stop-color="#388bfd"/>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b111b"/>
+      <stop offset="0.58" stop-color="#0d1420"/>
+      <stop offset="1" stop-color="#11182a"/>
     </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.52" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#818cf8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="shadow" x="-10%" y="-15%" width="120%" height="135%">
+      <feDropShadow dx="0" dy="12" stdDeviation="18" flood-color="#000000" flood-opacity="0.34"/>
+    </filter>
   </defs>
 
-  <rect x="1" y="1" width="958" height="258" rx="10" fill="#0d1117" stroke="#30363d"/>
-  <rect x="1" y="1" width="958" height="4" rx="2" fill="url(#accent)"/>
+  <!-- Main shell -->
+  <rect x="10" y="10" width="940" height="266" rx="22" fill="url(#panel)" stroke="#263246" filter="url(#shadow)"/>
+  <rect x="10" y="10" width="940" height="266" rx="22" fill="url(#grid)" opacity="0.55"/>
+  <rect x="10" y="10" width="940" height="3" rx="1.5" fill="url(#accent)"/>
 
-  <!-- Identity -->
-  <text x="42" y="61" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.7" fill="#f0f6fc">Firdavs Baliyev</text>
-  <text x="43" y="93" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="650" fill="#58a6ff">PYTHON BACKEND DEVELOPER</text>
-  <text x="43" y="119" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" fill="#8b949e">Applied AI/ML · Full-Stack Engineering · Data Workflows</text>
+  <!-- Left identity zone -->
+  <text x="52" y="48" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.1" fill="#7d8aa0">ENGINEERING PORTFOLIO · 2026</text>
 
-  <line x1="43" y1="140" x2="505" y2="140" stroke="#30363d"/>
+  <text x="50" y="96" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="760" letter-spacing="-1.15" fill="#f8fafc">Firdavs Baliyev</text>
+  <text x="52" y="126" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15.5" font-weight="650" letter-spacing="0.15" fill="#60a5fa">PYTHON BACKEND ENGINEERING · APPLIED AI / ML</text>
 
-  <text x="43" y="169" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" fill="#8b949e">Production-focused APIs, data systems and ML-enabled products.</text>
-  <text x="43" y="193" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" fill="#8b949e">Tashkent, Uzbekistan · TUIT Cybersecurity, 2024–2028</text>
-  <text x="43" y="217" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13.5" fill="#8b949e">Uzbek: Native · Russian: Fluent · English: Advanced</text>
+  <text x="52" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#aab4c3">Designing reliable APIs, data systems and ML-enabled products</text>
+  <text x="52" y="179" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500" fill="#aab4c3">from architecture and testing through deployment.</text>
 
-  <!-- Engineering profile -->
-  <rect x="548" y="35" width="368" height="190" rx="8" fill="#161b22" stroke="#30363d"/>
-  <text x="573" y="64" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" fill="#8b949e">ENGINEERING PROFILE</text>
-  <line x1="573" y1="76" x2="891" y2="76" stroke="#30363d"/>
+  <!-- Capability strip -->
+  <g font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="11" font-weight="650">
+    <rect x="52" y="207" width="78" height="28" rx="7" fill="#12223d" stroke="#294b7a"/>
+    <text x="91" y="225" text-anchor="middle" fill="#7db6ff">PYTHON</text>
 
-  <text x="573" y="103" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#f0f6fc">Backend</text>
-  <text x="653" y="103" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">Django · DRF · Celery · REST</text>
+    <rect x="138" y="207" width="76" height="28" rx="7" fill="#121a26" stroke="#283447"/>
+    <text x="176" y="225" text-anchor="middle" fill="#c3ccda">DJANGO</text>
 
-  <text x="573" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#f0f6fc">Data</text>
-  <text x="653" y="132" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">PostgreSQL · Redis · Polars</text>
+    <rect x="222" y="207" width="108" height="28" rx="7" fill="#121a26" stroke="#283447"/>
+    <text x="276" y="225" text-anchor="middle" fill="#c3ccda">POSTGRESQL</text>
 
-  <text x="573" y="161" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#f0f6fc">AI / ML</text>
-  <text x="653" y="161" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">PyTorch · sklearn · MLflow</text>
+    <rect x="338" y="207" width="84" height="28" rx="7" fill="#121a26" stroke="#283447"/>
+    <text x="380" y="225" text-anchor="middle" fill="#c3ccda">PYTORCH</text>
 
-  <text x="573" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" fill="#f0f6fc">Delivery</text>
-  <text x="653" y="190" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">Docker · CI/CD · Testing</text>
+    <rect x="430" y="207" width="78" height="28" rx="7" fill="#121a26" stroke="#283447"/>
+    <text x="469" y="225" text-anchor="middle" fill="#c3ccda">DOCKER</text>
+  </g>
 
-  <rect x="573" y="207" width="95" height="2" rx="1" fill="#58a6ff">
-    <animate attributeName="width" values="95;185;95" dur="7s" repeatCount="indefinite"/>
+  <g transform="translate(52 253)">
+    <circle cx="4" cy="-4" r="3.8" fill="#3fb950"/>
+    <text x="15" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="550" fill="#8f9bad">Tashkent, Uzbekistan</text>
+    <text x="155" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#5f6b7c">•</text>
+    <text x="170" y="0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12.5" font-weight="550" fill="#8f9bad">TUIT · Cybersecurity</text>
+  </g>
+
+  <!-- Right visual identity zone -->
+  <line x1="594" y1="40" x2="594" y2="246" stroke="#273246"/>
+
+  <text x="628" y="49" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.8" fill="#6f7b8e">TECHNICAL PROFILE</text>
+  <text x="875" y="49" text-anchor="end" font-family="JetBrains Mono, Fira Code, Consolas, monospace" font-size="10.5" font-weight="650" fill="#7d8aa0">UZ / EN / RU</text>
+
+  <circle cx="765" cy="129" r="104" fill="url(#halo)"/>
+  <circle cx="765" cy="129" r="74" fill="#0d1522" stroke="#2d3a50" stroke-width="1.5"/>
+  <circle cx="765" cy="129" r="61" fill="none" stroke="#46506f" stroke-width="1" stroke-dasharray="2 8"/>
+
+  <g>
+    <circle cx="765" cy="129" r="51" fill="#f8fafc"/>
+    <text x="765" y="138" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="31" font-weight="760" letter-spacing="-0.5" fill="#0f172a">FB</text>
+  </g>
+
+  <!-- Subtle orbital motion -->
+  <g>
+    <circle cx="765" cy="55" r="4" fill="#8b8cff"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 765 129" to="360 765 129" dur="12s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="765" y="222" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.1" fill="#c4ccda">BACKEND · DATA · AI</text>
+  <text x="765" y="242" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#8793a5">production-minded engineering</text>
+
+  <!-- Small signature rule -->
+  <rect x="628" y="258" width="274" height="2" rx="1" fill="#243047"/>
+  <rect x="628" y="258" width="74" height="2" rx="1" fill="url(#accent)">
+    <animate attributeName="width" values="74;182;74" dur="8s" repeatCount="indefinite"/>
   </rect>
 </svg>
